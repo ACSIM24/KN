@@ -1,0 +1,5 @@
+# Datos exportados de Fractal (contienen nombres y correos): no versionar
+*.csv
+*.xlsx
+*.xls
+.ipynb_checkpoints/
